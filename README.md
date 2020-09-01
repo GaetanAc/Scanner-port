@@ -1,3 +1,3 @@
 # Scanner-port
 
-Scanner de port afin de d'identifier les port ouvert ou fermé sur un réseau 
+Scanner de port en python ,afin d'identifier les ports ouvert ou fermé sur un réseau 
